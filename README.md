@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github.com/thedanfernandez/thedanfernandez/blob/master/header.jpeg" alt="Photo of Crystal Mountain" height="16">
+<img align="center" src="https://github.com/thedanfernandez/thedanfernandez/raw/main/header.jpeg" alt="Photo of Crystal Mountain" height="16">
 
 ### Hi, I'm Dan 👋
 
