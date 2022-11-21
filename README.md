@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 I'm the VP of Product for Developer Services at Salesforce. 
 
-- 🌱 I’m currently learning Node.js, TypeScript, Apex, PostgreSQL, Chart.js, and the gSheets API
 - 😄 Pronouns: He / Him
 <p align="left">
 <ul>
