@@ -27,5 +27,3 @@ I'm the VP of Product for Developer Services at Salesforce.
 <a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/thedanfernandez/thedanfernandez/blob/main/linkedin.png" alt="LinkedIn logo" height="20" /></a>
 </li>
 </ul>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedanfernandez&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
